@@ -2,6 +2,11 @@
 
 Streaming AI chat dashboard built with Next.js 15, Tailwind CSS, OpenAI API, and Vercel AI SDK.
 
+## Links
+
+- Live demo: https://ai-chat-dashboard-delta.vercel.app
+- GitHub: https://github.com/mikeai-cloud/ai-chat-dashboard
+
 ## Features
 - Streaming chat responses
 - Editable system prompt
